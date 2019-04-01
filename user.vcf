@@ -8,6 +8,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:zoe@zoe-writer.com
 TEL;type=WORK;type=VOICE:+447594343657
 item1.ADR;type=WORK;type=pref:;;eastbourne;UK
 item1.X-ABADR:sg
-item2.URL;type=pref:zoe-writer.com
+item2.URL;type=pref:zoe-writer.com;FB:/zoehazewriter
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
