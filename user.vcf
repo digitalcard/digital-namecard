@@ -5,10 +5,14 @@ N:Zoe;Thomas;;;
 FN: Zoe Thomas 
 TITLE:Content Writer,Copywriter & Editor\nZoe-writer
 URL:http://zoe-writer.com
-item1.URL:https://twitter.com/journozo
-item1.X-ABLabel:twitter
-item2.URL:https://www.facebook.com/zoehazelwriter/?ref=br_rs
-item2.X-ABLabel:facebook
+item1.URL:https://www.facebook.com/zoehazelwriter/?ref=br_rs
+item1.X-ABLabel:facebook
+item2.URL:https://twitter.com/journozo
+item2.X-ABLabel:twitter
+item3.URL:https://www.instagram.com/zo_writer/
+item3.X-ABLabel:instagram
+item4.URL:https://www.linkedin.com/company/zoe-writer/
+item4.X-ABLabel:linkedin
 EMAIL;type=INTERNET;type=WORK;type=pref:zoe@zoe-writer.com
 TEL;type=WORK;type=VOICE:+447594343657
 item1.ADR;type=WORK;type=pref:;;eastbourne;UK
