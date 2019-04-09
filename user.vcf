@@ -14,7 +14,7 @@ item3.X-ABLabel:instagram
 item4.URL:https://www.linkedin.com/company/zoe-writer/
 item4.X-ABLabel:linkedin
 EMAIL;type=INTERNET;type=WORK;type=pref:zoe@zoe-writer.com
-TEL;type=WORK;type=VOICE:+447594343657
+TEL;type=WORK;type=pref:07594343657
 item1.ADR;type=WORK;type=pref:;;eastbourne;UK
 item1.X-ABADR:sg
 END:VCARD
