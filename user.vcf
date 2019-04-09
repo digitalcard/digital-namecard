@@ -10,5 +10,5 @@ item1.ADR;type=WORK;type=pref:;;eastbourne;UK
 item1.X-ABADR:sg
 item2.URL;type=pref:zoe-writer.com;FB:/zoehazewriter
 item2.X-ABLabel:_$!<HomePage>!$_
-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/company/zoe-writer/
+X-SOCIALPROFILE;type=twitter:https://twitter.com/journozo
 END:VCARD
