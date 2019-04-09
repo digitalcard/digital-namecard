@@ -4,11 +4,13 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Zoe;Thomas;;;
 FN: Zoe Thomas 
 TITLE:Content Writer,Copywriter & Editor\nZoe-writer
+URL:http://zoe-writer.com
+item1.URL:https://twitter.com/journozo
+item1.X-ABLabel:twitter
+item2.URL:https://www.facebook.com/zoehazelwriter/?ref=br_rs
+item2.X-ABLabel:facebook
 EMAIL;type=INTERNET;type=WORK;type=pref:zoe@zoe-writer.com
 TEL;type=WORK;type=VOICE:+447594343657
 item1.ADR;type=WORK;type=pref:;;eastbourne;UK
 item1.X-ABADR:sg
-item2.URL;type=pref:zoe-writer.com;FB:/zoehazewriter
-item2.X-ABLabel:_$!<HomePage>!$_
-X-SOCIALPROFILE;type=twitter:https://twitter.com/journozo
 END:VCARD
